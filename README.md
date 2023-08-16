@@ -1,7 +1,22 @@
-# Python Spam Bot
+# Python Spam Bot Chat
 
 ## Installation
 
+#### Instal Virtual Env
+1. Run this command to install Virtual Env package:
+```bash
+  pip install virtualenv
+```
+2. Create your venv with run this command:
+```bash
+  virtualenv venv
+```
+3. Type this command to run virtual env 
+```bash
+venv/Scripts/activate
+```
+#
+#### Instructions Run Program
 1. Type this command to install some libraries python
 ```bash
   pip install -r requirements.txt
